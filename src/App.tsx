@@ -99,7 +99,6 @@ const App = () => {
 			<div ref={boxRef} className="w-screen h-screen bg-yellow-300">
 				<canvas ref={canvasRef} className="m-auto absolute inset-0 bg-blue-600"></canvas>
 			</div>
-			<div className="text-3xl font-bold underline text-red-600">hello world</div>
 		</>
 	)
 }
